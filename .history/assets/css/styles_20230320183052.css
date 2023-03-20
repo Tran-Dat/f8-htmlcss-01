@@ -60,7 +60,7 @@ a {
     z-index: 1;
 }
 
-.hero-wrap {
+.header {
     height: 100vh;
     display: flex;
     flex-direction: column;
