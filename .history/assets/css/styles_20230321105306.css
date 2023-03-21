@@ -68,10 +68,10 @@ a {
 .hero-wrap {
     position: relative;
     display: flex;
-    justify-content: center;
+    height: calc(100vh - 90px);
+
     flex-direction: column;
     background: #e6f0ff;
-    height: calc(100vh - 90px);
 }
 
 .navbar {
