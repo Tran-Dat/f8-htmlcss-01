@@ -292,7 +292,7 @@ a {
 }
 
 .featured .sub-title {
-    /* padding-top: 130px; */
+    padding-top: 130px;
     font-weight: 600;
     font-size: 3.5rem;
     line-height: 1;

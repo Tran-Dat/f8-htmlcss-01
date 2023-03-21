@@ -10,11 +10,6 @@ html {
     font-size: 62.5%;
 }
 
-html,
-body {
-    scroll-behavior: smooth;
-}
-
 body {
     font-size: 1.6rem;
     font-family: "Poppins", sans-serif;
@@ -292,7 +287,7 @@ a {
 }
 
 .featured .sub-title {
-    /* padding-top: 130px; */
+    padding-top: 130px;
     font-weight: 600;
     font-size: 3.5rem;
     line-height: 1;
